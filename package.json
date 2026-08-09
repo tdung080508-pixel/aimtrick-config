@@ -1,0 +1,1 @@
+{"name":"vtd-freefire-config","version":"1.0.0","description":"VTĐZAI Config Server for FreeFire","main":"api/server.js","scripts":{"start":"node api/server.js"},"author":"VTĐZAI Empire","license":"UNLICENSED"}
